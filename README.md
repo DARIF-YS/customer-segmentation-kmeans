@@ -1,6 +1,6 @@
 # Segmentation de Clients d’un Distributeur en Gros avec K-Means
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Birmingham_Wholesale_Markets.jpg" alt="Segmentation des clients" height="330" width="100%"/>
+<img src="https://raw.githubusercontent.com/Masterx-AI/Project_Customer_Segmentation_/main/customer_segmentation.png" alt="Segmentation des clients" height="330" width="100%"/>
 
 ## Problématique
 
